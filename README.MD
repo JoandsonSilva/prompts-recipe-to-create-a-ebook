@@ -10,12 +10,7 @@
 -------
 
 
-<p align="center">
-<img 
-    src=""
-    width="400"  
-/>
-</p>
+
 
 # Projeto EBOOK Gerado por I.A.s
 
@@ -58,7 +53,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://media.licdn.com/dms/image/C4D03AQH7huovaqZ4gw/profile-displayphoto-shrink_800_800/0/1605703698049?e=1727308800&v=beta&t=ICXSPPBSSJnUAHL-CilPlM_GrD5aJ8VuRzTWEoA6O1c"
     />
     <p>&nbsp&nbsp&nbspJoandson Silva<br>
     &nbsp&nbsp&nbsp
