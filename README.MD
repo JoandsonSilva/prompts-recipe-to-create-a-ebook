@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="https://media.licdn.com/dms/image/C4D03AQH7huovaqZ4gw/profile-displayphoto-shrink_800_800/0/1605703698049?e=1727308800&v=beta&t=ICXSPPBSSJnUAHL-CilPlM_GrD5aJ8VuRzTWEoA6O1c"
+    src=""
     width="400"  
 />
 </p>
